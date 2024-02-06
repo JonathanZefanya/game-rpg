@@ -4,9 +4,9 @@ Open Terminal <br>
 
 `python main.py` <br>
 
-<h1> Control </h1>
+<h1> Controlling </h1>
 Control: 'WASD' + Left Mouse Button
 
-<h1> Dokumentasi </h1>
+<h1> Documentations </h1>
 
 ![doom](/sreenshots/0.jpg)
