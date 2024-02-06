@@ -61,7 +61,7 @@ class RayCasting:
                 y_hor += dy
                 depth_hor += delta_depth
 
-            # verticals
+            # vertikal
             x_vert, dx = (x_map + 1, 1) if cos_a > 0 else (x_map - 1e-6, -1)
 
             depth_vert = (x_vert - ox) / cos_a
@@ -79,7 +79,7 @@ class RayCasting:
                 y_vert += dy
                 depth_vert += delta_depth
 
-            # depth, texture offset
+            # tekstur dan offset
             if depth_vert < depth_hor:
                 depth, texture = depth_vert, texture_vert
                 y_vert %= 1
