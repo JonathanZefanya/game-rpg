@@ -1,4 +1,4 @@
-# Covid Revenge style 3d (raycasting) game in Python (based on Wolfenstein 3d)
+# Covid Revenge style 3d (raycasting) game in Python (based on Doom Classic)
 <h1> How To Run </h1>
 Open Terminal <br>
 
