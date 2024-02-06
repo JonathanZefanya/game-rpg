@@ -114,6 +114,7 @@ class Player:
         self.movement()
         self.mouse_control()
         self.recover_health()
+        
 
     @property
     def pos(self):
